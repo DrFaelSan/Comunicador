@@ -1,0 +1,13 @@
+http://www.andrealveslima.com.br/blog/index.php/2017/11/15/exemplo-de-crud-no-wpf-com-mvvm/
+
+https://riptutorial.com/wpf/example/992/basic-mvvm-example-using-wpf-and-csharp
+
+http://www.macoratti.net/17/06/wpf_mvvm1.htm
+
+https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/wiki/Super-Quick-Start
+
+https://www.c-sharpcorner.com/UploadFile/raj1979/simple-mvvm-pattern-in-wpf/
+
+https://www.devmedia.com.br/entendendo-o-pattern-model-view-viewmodel-mvvm/18411
+
+
